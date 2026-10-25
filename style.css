@@ -1,0 +1,97 @@
+/* item8.org — two faces, one snapshot.
+   web: coelaboration.com, 2000 (white, orange, purple).
+   cmd: the amber terminal the work was born on.
+   No serifs anywhere. No external assets. */
+  :root, :root[data-theme="web"]{
+    --bg:#fff; --ink:#111;
+    --wordmark:#f59e0b; --tag:#e8890c; --stamp:#e8890c;
+    --link:#551a8b; --hot:#ff2d00; --accent:#00008b; --alt:#4e7d74; --blue:#0000ee;
+    --band:#f59e0b; --band-ink:#0000ee; --copy:#00a000;
+    --font:Arial,Helvetica,sans-serif;
+    --wfont:"Arial Rounded MT Bold",Arial,Helvetica,sans-serif;
+    --promptshow:none; --ruleshow:block;
+  }
+  :root[data-theme="cmd"]{
+    --bg:#16110a; --ink:#ffb648;
+    --wordmark:#ffb648; --tag:#d99b35; --stamp:#8a6a2f;
+    --link:#ffb648; --hot:#ffd88a; --accent:#d99b35; --alt:#8a6a2f; --blue:#ffb648;
+    --band:#ffb648; --band-ink:#16110a; --copy:#16110a;
+    --font:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace;
+    --wfont:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace;
+    --promptshow:inline; --ruleshow:none;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--font);
+    font-size:1.05rem;line-height:1.45}
+  main{max-width:62rem;margin:0 auto;padding:1.2rem 1.2rem 0}
+  a{color:var(--link);text-decoration:underline;text-underline-offset:3px}
+  .viewline{display:flex;justify-content:space-between;align-items:baseline;font-size:1rem;
+    flex-wrap:wrap;gap:.3rem 1rem}
+  .viewline .prompt{color:var(--stamp);display:var(--promptshow)}
+  .viewswitch button{background:none;border:0;padding:0;font:inherit;cursor:pointer;
+    color:var(--link);text-decoration:underline;text-underline-offset:3px}
+  .viewswitch .on{font-weight:700;text-decoration:none;color:var(--ink)}
+  .viewswitch .sep{color:var(--stamp)}
+  .wordmark{font-family:var(--wfont);font-size:clamp(3.6rem,12vw,8rem);font-weight:900;
+    letter-spacing:-.03em;line-height:.92;margin:.4rem 0 0;color:var(--wordmark)}
+  .miniword{font-family:var(--wfont);font-size:2.1rem;font-weight:900;letter-spacing:-.03em;
+    color:var(--wordmark);text-decoration:none;line-height:1}
+  .miniword a{color:var(--wordmark);text-decoration:none}
+  .tagline{font-style:italic;font-weight:700;font-size:clamp(1.2rem,3.4vw,1.8rem);color:var(--tag);margin:.15rem 0 0;text-align:right}
+  .stamp{color:var(--stamp);font-size:1rem;margin:.2rem 0 0;text-align:right}
+  hr{border:0;border-top:2px solid var(--wordmark);margin:1.6rem 0 0;display:var(--ruleshow)}
+  h1.page{font-size:2rem;margin:.8rem 0 .4rem;color:var(--ink)}
+  .lede{max-width:44rem}
+  /* the constellation, hand-placed like 2000 */
+  .sky{position:relative;height:27rem;margin:.5rem 0 0;overflow:hidden}
+  .sky a{position:absolute;white-space:nowrap}
+  .toc{font-style:italic;font-weight:700;font-size:2.6rem;color:var(--accent);left:2%;top:2%}
+  .s-river{font-size:2.4rem;font-weight:700;color:var(--hot);left:30%;top:10%}
+  .s-first{font-size:1.7rem;left:74%;top:4%}
+  .s-what{font-size:1.4rem;left:6%;top:30%}
+  .s-why{font-size:1.4rem;left:33%;top:33%}
+  .s-faq{font-size:1.3rem;left:58%;top:30%}
+  .s-who{font-size:1.5rem;left:82%;top:32%}
+  .s-hope{font-size:1.25rem;font-style:italic;left:14%;top:55%}
+  .s-justin{font-size:1.15rem;font-style:italic;left:42%;top:58%}
+  .s-wash{font-size:1.45rem;left:66%;top:55%}
+  .s-seattle{font-size:1.2rem;left:28%;top:79%}
+  .s-bus{font-size:1.1rem;color:var(--blue);left:54%;top:82%}
+  .s-ashes{font-size:1.3rem;font-style:italic;left:82%;top:77%}
+  .s-writers{font-size:1.6rem;font-style:italic;left:3%;top:80%}
+  .s-year{font-size:1.15rem;color:var(--alt);left:70%;top:12%}
+  .welcome{max-width:40rem;margin:2rem 0 0;font-size:1.08rem}
+  .welcome .ed{font-style:italic}
+  .news{max-width:44rem;margin:0 0 2.4rem;font-size:1rem}
+  .news h2{font-style:italic;color:var(--accent);font-size:1.5rem;margin:0 0 .5rem}
+  .news p{margin:.35rem 0}
+  .news .d{color:var(--tag);font-weight:700}
+  /* the river */
+  .monthnav{max-width:44rem;font-size:1rem;margin:.6rem 0 0}
+  .month{font-style:italic;color:var(--accent);font-size:1.55rem;
+    border-top:2px solid var(--wordmark);padding-top:1.1rem;margin:2.6rem 0 1rem}
+  .resp{margin:0 0 2rem;max-width:44rem}
+  .rhead{font-size:1.02rem;font-weight:700;color:var(--accent);margin:0 0 .35rem}
+  .rhead a{color:var(--accent);text-decoration:none}
+  .rhead a:hover{text-decoration:underline}
+  .resp p{margin:.45rem 0;overflow-wrap:break-word}
+  .gap{max-width:44rem;color:var(--stamp);font-style:italic;
+    border:1px dashed var(--stamp);padding:.35rem .7rem;margin:0 0 2rem}
+  .ednote{max-width:44rem;color:var(--stamp);font-size:.95rem;font-style:italic;margin:-1.4rem 0 2rem}
+  .inriver{font-size:.9rem}
+  /* prose pages */
+  .prose{max-width:42rem;margin:0 0 2.4rem}
+  .prose h2{font-style:italic;color:var(--accent);font-size:1.45rem;margin:1.8rem 0 .4rem}
+  .prose p{margin:.5rem 0;overflow-wrap:break-word}
+  .prose blockquote{margin:.6rem 1rem;font-style:italic}
+  /* writers roster */
+  table.roster{border-collapse:collapse;margin:0 0 2.4rem;max-width:52rem;width:100%}
+  table.roster td,table.roster th{border-top:1px solid var(--stamp);padding:.35rem .6rem .35rem 0;
+    text-align:left;vertical-align:top;font-size:1rem}
+  table.roster th{color:var(--accent);font-style:italic}
+  .forms{color:var(--stamp);font-size:.92rem}
+  footer{background:var(--band);margin-top:1rem}
+  footer .in{max-width:62rem;margin:0 auto;padding:.6rem 1.2rem;font-size:1.05rem}
+  footer a{color:var(--band-ink);margin-right:1.3rem}
+  footer .copy{color:var(--copy);margin:.35rem 0 0;font-size:1rem}
+  @media (max-width:44rem){ .sky{height:31rem} .s-river{font-size:1.9rem} }

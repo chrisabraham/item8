@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="web">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>item8 — colophon: how this edition was made</title>
+<meta name="description" content="The witnesses, the collation, and the cleaning decisions behind the item8.org preservation edition of Item 8 (1997–98).">
+<link rel="canonical" href="https://item8.org/colophon.html">
+<link rel="stylesheet" href="style.css">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="item8">
+<meta property="og:title" content="item8 — colophon: how this edition was made">
+<meta property="og:description" content="The witnesses, the collation, and the cleaning decisions behind the item8.org preservation edition of Item 8 (1997–98).">
+<meta property="og:url" content="https://item8.org/colophon.html">
+<meta property="og:image" content="https://item8.org/og-card.svg">
+<meta name="twitter:card" content="summary_large_image">
+</head>
+<body>
+<main>
+  <div class="viewline">
+    <span><span class="prompt">8&gt;&nbsp;</span>item 8 — colophon</span>
+    <span class="viewswitch" role="group" aria-label="View">
+      view: <button type="button" data-set="web" class="on">web</button><span class="sep"> / </span><button type="button" data-set="cmd">cmd</button>
+    </span>
+  </div>
+  <p class="miniword"><a href="index.html">item8</a></p>
+  <h1 class="page">colophon</h1>
+  <div class="prose">
+    <p>This site is an archive. It reprints item 8 of the <i>artist</i> conference on The Meta Network (September 2, 1997 – August 31, 1998) entire, so the work survives in the open, in the order it was written.</p>
+    <h2>the witnesses</h2>
+    <p>Two complete copies of the transcript survive, and this edition rests on both. The first is the text as carried for years on the editor's weblog. The second is the full-text page of the work's own period site, coelaboration.com/8/f8.html, captured by the Wayback Machine on December 11, 2000. A third, partial witness — the period site's single-response view — survives for one response and agrees with both.</p>
+    <h2>the collation</h2>
+    <p>The two complete witnesses were collated line by line for this edition — every header, every response. All 212 headers agree exactly. 210 of the 212 bodies agree word for word. The two exceptions:</p>
+    <p><b>8:0.</b> The weblog copy ends the first response with three extra words — “We buy land.” — a piece of third-party link spam injected into that page at some later date. The words are absent from the 2000 witness. They are deleted here, and this note is the record of the deletion.</p>
+    <p><b>8:49.</b> The 2000 copy carries a stray “&gt;” after the word “bruirranbr” — an artifact of that page's own markup. The edition follows the weblog copy's reading.</p>
+    <p>No response, fragment, or fuller reading exists in either witness that is not in this edition.</p>
+    <h2>the gaps</h2>
+    <p>Responses were numbered 8:0 to 8:240. Twenty-nine numbers survive in neither copy: 25, 26, 37, 57, 60, 61, 70, 119, 145, 146, 147, 167, 176, 187, 190, 191, 193, 194, 195, 196, 197, 198, 199, 201, 209, 210, 229, 238, 239. They were most plausibly frozen or withdrawn in Caucus itself, or lost in the editor's original 1998–99 export — the run 193–199 suggests a single event. They are printed as gaps in the river. Nothing has been renumbered, and nothing has been reconstructed.</p>
+    <h2>8:202</h2>
+    <p>One header is corrupt in both copies: “8:202) Sarah Neyaz 27-yes.98 15:33”. The corruption is in the original export, not in transmission. The surrounding responses make 27 May 1998 the probable true date. The header prints as it stands, with a note where it occurs — footnoted, never repaired.</p>
+    <h2>names as printed</h2>
+    <p>Headers print each writer's name exactly as it stands — including Hope O'Keeffe's backtick form (Hope O`Keeffe, from 8:185 on) and Dirk Flinthart's two joke bylines (Dirt Flinkhart, Firth Drinkhart). The <a href="writers.html">writers page</a> groups the variants under the person.</p>
+    <h2>the two faces</h2>
+    <p>The site has two faces, because the work had two lives: <b>web</b>, the skin of the work's own 2000 site, and <b>cmd</b>, the amber terminal screen where the work was written and read. The switch sits at the top of every page; the snapshot underneath never changes.</p>
+    <h2>rights and contact</h2>
+    <p>The 1997–98 text belongs to its writers; this edition asserts no new rights in it. The edition was made in good faith, to keep a fragile work alive. Any writer who objects to any part of it is asked to write — cabraham@gmail.com — and the site will come down or change, promptly and without argument. A surviving fragment of the missing numbers would be received the same way: with gratitude.</p>
+  </div>
+</main>
+<footer>
+  <div class="in">
+    <a href="river.html">the transcript</a><a href="mailto:cabraham@gmail.com">feedback</a><a href="colophon.html">webmaster</a><a href="writers.html">contributors</a><a href="what.html#kudos">kudos</a>
+    <p class="copy">item8.org ©2026 Chris Abraham. The 1997–98 text belongs to its writers.</p>
+  </div>
+</footer>
+<script>
+  var root=document.documentElement;
+  function setTheme(t){ root.setAttribute('data-theme',t);
+    document.querySelectorAll('.viewswitch button').forEach(function(b){
+      b.classList.toggle('on', b.getAttribute('data-set')===t); });
+    try{ localStorage.setItem('item8-theme',t); }catch(e){} }
+  document.querySelectorAll('.viewswitch button').forEach(function(b){
+    b.addEventListener('click', function(){ setTheme(b.getAttribute('data-set')); }); });
+  try{ var saved=localStorage.getItem('item8-theme'); if(saved){ setTheme(saved); } }catch(e){}
+</script>
+</body>
+</html>

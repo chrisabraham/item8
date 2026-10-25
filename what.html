@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="web">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>item8 — what is it?</title>
+<meta name="description" content="What Item 8 (Coelaboration) is, why it was begun, and the editor&#x27;s thanks — in the editor&#x27;s own words where they survive.">
+<link rel="canonical" href="https://item8.org/what.html">
+<link rel="stylesheet" href="style.css">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="item8">
+<meta property="og:title" content="item8 — what is it?">
+<meta property="og:description" content="What Item 8 (Coelaboration) is, why it was begun, and the editor&#x27;s thanks — in the editor&#x27;s own words where they survive.">
+<meta property="og:url" content="https://item8.org/what.html">
+<meta property="og:image" content="https://item8.org/og-card.svg">
+<meta name="twitter:card" content="summary_large_image">
+</head>
+<body>
+<main>
+  <div class="viewline">
+    <span><span class="prompt">8&gt;&nbsp;</span>item 8 — what is it?</span>
+    <span class="viewswitch" role="group" aria-label="View">
+      view: <button type="button" data-set="web" class="on">web</button><span class="sep"> / </span><button type="button" data-set="cmd">cmd</button>
+    </span>
+  </div>
+  <p class="miniword"><a href="index.html">item8</a></p>
+  <h1 class="page">what is it?</h1>
+  <div class="prose">
+    <p>The editor's own description, written in 2000: <i>“8 is a spontaneous work of on-line interactive fiction.”</i></p>
+    <p>What began as one text, collaboratively written by some chums in a TMN-sponsored conference called <i>artist</i>, ran as item 8 of that conference — an item in Caucus conferencing software on The Meta Network — from September 2, 1997 to August 31, 1998. The editor called the item, and the method, <b>coelaboration</b>: collaborative elaboration, each response elaborating the ones before it. Nineteen writers posted 241 numbered responses; 212 survive, and they are printed entire in <a href="river.html">the river</a>.</p>
+    <h2 id="why">why is it?</h2>
+    <p>The editor, again in his own words: <i>“i wanted to see if i could create anything like my name is scibe, which i was a part of years ago.”</i> Scibe was the 1994 collaborative hyperfiction written on ARTS WIRE and The WELL. Item 8 was the experiment run a second time, three years later, on a different network with different software — and, from January 1998, with a classroom's worth of new writers.</p>
+    <h2 id="faq">faq</h2>
+    <p><b>Is it still going?</b> No. The item closed on August 31, 1998; the cessation of the exercise was, in the editor's words, completely arbitrary. This site is a snapshot of the finished work, not a revival — nothing here is open for posting.</p>
+    <p><b>Is the text complete?</b> 212 of the 241 numbered responses survive. The 29 that survive in neither copy are printed as gaps in the river, never renumbered over. See the <a href="colophon.html">colophon</a> for how the text was established.</p>
+    <p><b>Was anything edited?</b> One line of third-party link spam that had been injected into the later copy was removed. Nothing else — misspellings, joke bylines, and one corrupt header date all print as they stand.</p>
+    <p><b>Who owns it?</b> Each response belongs to its writer. This edition claims nothing.</p>
+    <h2 id="kudos">kudos</h2>
+    <p>The editor's thank-yous, as printed at the time: to Scott Burns, to Caucus Systems, and to The Meta Network, whose <i>artist</i> conference housed the item. And to Ginny Little, whose Creative Writers on the Net brought the January 1998 writers — the flood that made the river.</p>
+  </div>
+</main>
+<footer>
+  <div class="in">
+    <a href="river.html">the transcript</a><a href="mailto:cabraham@gmail.com">feedback</a><a href="colophon.html">webmaster</a><a href="writers.html">contributors</a><a href="what.html#kudos">kudos</a>
+    <p class="copy">item8.org ©2026 Chris Abraham. The 1997–98 text belongs to its writers.</p>
+  </div>
+</footer>
+<script>
+  var root=document.documentElement;
+  function setTheme(t){ root.setAttribute('data-theme',t);
+    document.querySelectorAll('.viewswitch button').forEach(function(b){
+      b.classList.toggle('on', b.getAttribute('data-set')===t); });
+    try{ localStorage.setItem('item8-theme',t); }catch(e){} }
+  document.querySelectorAll('.viewswitch button').forEach(function(b){
+    b.addEventListener('click', function(){ setTheme(b.getAttribute('data-set')); }); });
+  try{ var saved=localStorage.getItem('item8-theme'); if(saved){ setTheme(saved); } }catch(e){}
+</script>
+</body>
+</html>
