@@ -1,0 +1,27 @@
+# item8 — 8 (Coelaboration)
+
+> Item 8 — called "8", and called Coelaboration by its editor — is a collaborative hypernarrative written by nineteen writers as item 8 of the artist conference on The Meta Network (TMN), in Caucus conferencing software, from September 2, 1997 to August 31, 1998. Its 241 numbered responses were posted in one running thread; 212 survive, and the 29 numbers that survive in neither copy are printed as gaps, never renumbered over. This site is the preservation edition (2026), edited by Chris Abraham, the item's founder and editor.
+
+## The work
+
+- [The river](https://item8.org/river.html): all 212 surviving responses in the order they ran, under their exact headers, with the 29 gaps printed in place. The river page also carries the whole work read aloud as one stitched listen, just under four hours.
+- [8:0, the first response](https://item8.org/8/0.html): every response, and every gap, has its own page in the /8/ sequence; forward and back links walk the whole chain, 8:0 to 8:240.
+- [What is it?](https://item8.org/what.html): the editor's own description of the work, why it was begun, and his thanks — in his words where they survive.
+
+## Listening
+
+- [Podcast feed](https://item8.org/podcast.xml): the whole work read aloud — all 241 chain entries in order (the 29 gaps as spoken markers), each response in a voice cast for its writer. The same feed is served at audio.xml, rss.xml and feed.xml, and in Atom form at atom.xml.
+
+## Reference
+
+- [The writers](https://item8.org/writers.html): the nineteen writers, under the names they printed, with counts, spans, and a strand page for each writer with two or more responses.
+- [Index of the work](https://item8.org/work-index.html): every person, place, organization, work and motif the text names — 195 entries, 764 citations, machine-checked against the transcript.
+- [Glossary](https://item8.org/glossary.html): the vocabulary of the room — coelaboration, Caucus, EFA, K/RESA, TheBUS — defined from the work's own usage first.
+- [FAQ](https://item8.org/faq.html): the plain questions answered plainly, including why 29 numbers are missing and whether this was a class (it was not).
+- [Colophon](https://item8.org/colophon.html): the witnesses, the line-by-line collation, and the edition's cleaning decisions.
+
+## Notes
+
+- The full text of the work also stands in one file: [llms-full.txt](https://item8.org/llms-full.txt).
+- The 1997–98 text belongs to its writers; this edition asserts no new rights in it. Contact for the edition and the podcast: cabraham@gmail.com.
+- Nothing here is open for posting; the item closed on August 31, 1998. This is a snapshot, not a revival.

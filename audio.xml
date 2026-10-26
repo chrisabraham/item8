@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
 <channel>
 <title>item8 — 8 (Coelaboration), read aloud</title>
 <link>https://item8.org/</link>
-<atom:link href="https://item8.org/audio.xml" rel="self" type="application/rss+xml"/>
+<atom:link href="https://item8.org/podcast.xml" rel="self" type="application/rss+xml"/>
 <description>Item 8 (Coelaboration), 1997–98, read aloud entire: all 212 surviving responses, each in a voice cast for its writer, and the 29 numbers that do not survive, marked in the editor’s voice. A collaborative hypernarrative written in the artist conference on The Meta Network, September 2, 1997 to August 31, 1998.</description>
 <language>en</language>
 <copyright>© 1997–98 the writers of item 8</copyright>
+<managingEditor>cabraham@gmail.com (item8.org preservation edition)</managingEditor>
+<webMaster>cabraham@gmail.com (item8.org preservation edition)</webMaster>
+<podcast:guid>11a2fc5f-20f8-49a6-a41b-033ef53d3bb3</podcast:guid>
+<podcast:medium>podcast</podcast:medium>
 <itunes:author>the nineteen writers of item 8</itunes:author>
 <itunes:explicit>false</itunes:explicit>
 <itunes:category text="Arts"><itunes:category text="Books"/></itunes:category>
 <itunes:category text="Arts"><itunes:category text="Literature"/></itunes:category>
 <itunes:type>serial</itunes:type>
 <itunes:owner><itunes:name>item8.org preservation edition</itunes:name><itunes:email>cabraham@gmail.com</itunes:email></itunes:owner>
-<itunes:image href="https://item8.org/og-card.svg"/>
+<itunes:image href="https://item8.org/podcast-cover.png"/>
 <item>
 <title>8:0 — chris abraham</title>
 <description>Coelaboration The small apartment smells a little from the windows being closed against the humidity. I don't have any place to put the butts from the ashtray and I really don't want to waste my time doing domestic things anyway. Time seems too valuable for that. But the job of…</description>
@@ -24,6 +28,7 @@
 <itunes:duration>1:02</itunes:duration>
 <itunes:author>chris abraham</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/0.html" type="text/html"/>
 </item>
 <item>
 <title>8:1 — chris abraham</title>
@@ -35,6 +40,7 @@
 <itunes:duration>0:37</itunes:duration>
 <itunes:author>chris abraham</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/1.html" type="text/html"/>
 </item>
 <item>
 <title>8:2 — chris abraham</title>
@@ -46,6 +52,7 @@
 <itunes:duration>0:54</itunes:duration>
 <itunes:author>chris abraham</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/2.html" type="text/html"/>
 </item>
 <item>
 <title>8:3 — chris abraham</title>
@@ -57,6 +64,7 @@
 <itunes:duration>0:43</itunes:duration>
 <itunes:author>chris abraham</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/3.html" type="text/html"/>
 </item>
 <item>
 <title>8:4 — chris abraham</title>
@@ -68,6 +76,7 @@
 <itunes:duration>0:25</itunes:duration>
 <itunes:author>chris abraham</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/4.html" type="text/html"/>
 </item>
 <item>
 <title>8:5 — chris abraham</title>
@@ -79,6 +88,7 @@
 <itunes:duration>0:24</itunes:duration>
 <itunes:author>chris abraham</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/5.html" type="text/html"/>
 </item>
 <item>
 <title>8:6 — chris abraham</title>
@@ -90,6 +100,7 @@
 <itunes:duration>0:33</itunes:duration>
 <itunes:author>chris abraham</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/6.html" type="text/html"/>
 </item>
 <item>
 <title>8:7 — chris abraham</title>
@@ -101,6 +112,7 @@
 <itunes:duration>0:51</itunes:duration>
 <itunes:author>chris abraham</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/7.html" type="text/html"/>
 </item>
 <item>
 <title>8:8 — chris abraham</title>
@@ -112,6 +124,7 @@
 <itunes:duration>0:10</itunes:duration>
 <itunes:author>chris abraham</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/8.html" type="text/html"/>
 </item>
 <item>
 <title>8:9 — Hope O'Keeffe</title>
@@ -123,6 +136,7 @@
 <itunes:duration>1:10</itunes:duration>
 <itunes:author>Hope O'Keeffe</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/9.html" type="text/html"/>
 </item>
 <item>
 <title>8:10 — chris abraham</title>
@@ -134,6 +148,7 @@
 <itunes:duration>1:01</itunes:duration>
 <itunes:author>chris abraham</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/10.html" type="text/html"/>
 </item>
 <item>
 <title>8:11 — Hope O'Keeffe</title>
@@ -145,6 +160,7 @@
 <itunes:duration>1:18</itunes:duration>
 <itunes:author>Hope O'Keeffe</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/11.html" type="text/html"/>
 </item>
 <item>
 <title>8:12 — chris abraham</title>
@@ -156,6 +172,7 @@
 <itunes:duration>2:14</itunes:duration>
 <itunes:author>chris abraham</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/12.html" type="text/html"/>
 </item>
 <item>
 <title>8:13 — Justin Sacks (Pell)</title>
@@ -167,6 +184,7 @@
 <itunes:duration>1:07</itunes:duration>
 <itunes:author>Justin Sacks (Pell)</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/13.html" type="text/html"/>
 </item>
 <item>
 <title>8:14 — Hope O'Keeffe</title>
@@ -178,6 +196,7 @@
 <itunes:duration>0:25</itunes:duration>
 <itunes:author>Hope O'Keeffe</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/14.html" type="text/html"/>
 </item>
 <item>
 <title>8:15 — chris abraham</title>
@@ -189,6 +208,7 @@
 <itunes:duration>1:59</itunes:duration>
 <itunes:author>chris abraham</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/15.html" type="text/html"/>
 </item>
 <item>
 <title>8:16 — Susan Galleymore</title>
@@ -200,6 +220,7 @@
 <itunes:duration>1:12</itunes:duration>
 <itunes:author>Susan Galleymore</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/16.html" type="text/html"/>
 </item>
 <item>
 <title>8:17 — Justin Sacks (Pell)</title>
@@ -211,6 +232,7 @@
 <itunes:duration>1:05</itunes:duration>
 <itunes:author>Justin Sacks (Pell)</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/17.html" type="text/html"/>
 </item>
 <item>
 <title>8:18 — Hope O'Keeffe</title>
@@ -222,6 +244,7 @@
 <itunes:duration>0:43</itunes:duration>
 <itunes:author>Hope O'Keeffe</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/18.html" type="text/html"/>
 </item>
 <item>
 <title>8:19 — chris abraham</title>
@@ -233,6 +256,7 @@
 <itunes:duration>1:26</itunes:duration>
 <itunes:author>chris abraham</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/19.html" type="text/html"/>
 </item>
 <item>
 <title>8:20 — Hope O'Keeffe</title>
@@ -244,6 +268,7 @@
 <itunes:duration>0:57</itunes:duration>
 <itunes:author>Hope O'Keeffe</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/20.html" type="text/html"/>
 </item>
 <item>
 <title>8:21 — chris abraham</title>
@@ -255,6 +280,7 @@
 <itunes:duration>0:50</itunes:duration>
 <itunes:author>chris abraham</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/21.html" type="text/html"/>
 </item>
 <item>
 <title>8:22 — Lavinia Weissman</title>
@@ -266,6 +292,7 @@
 <itunes:duration>0:42</itunes:duration>
 <itunes:author>Lavinia Weissman</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/22.html" type="text/html"/>
 </item>
 <item>
 <title>8:23 — Hope O'Keeffe</title>
@@ -277,6 +304,7 @@
 <itunes:duration>1:09</itunes:duration>
 <itunes:author>Hope O'Keeffe</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/23.html" type="text/html"/>
 </item>
 <item>
 <title>8:24 — chris abraham</title>
@@ -288,6 +316,7 @@
 <itunes:duration>1:31</itunes:duration>
 <itunes:author>chris abraham</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/24.html" type="text/html"/>
 </item>
 <item>
 <title>8:25 — missing</title>
@@ -299,6 +328,7 @@
 <itunes:duration>0:04</itunes:duration>
 <itunes:author>chris abraham</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/25.html" type="text/html"/>
 </item>
 <item>
 <title>8:26 — missing</title>
@@ -310,6 +340,7 @@
 <itunes:duration>0:04</itunes:duration>
 <itunes:author>chris abraham</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/26.html" type="text/html"/>
 </item>
 <item>
 <title>8:27 — chris abraham</title>
@@ -321,6 +352,7 @@
 <itunes:duration>2:19</itunes:duration>
 <itunes:author>chris abraham</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/27.html" type="text/html"/>
 </item>
 <item>
 <title>8:28 — chris abraham</title>
@@ -332,6 +364,7 @@
 <itunes:duration>1:04</itunes:duration>
 <itunes:author>chris abraham</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/28.html" type="text/html"/>
 </item>
 <item>
 <title>8:29 — Hope O'Keeffe</title>
@@ -343,6 +376,7 @@
 <itunes:duration>0:25</itunes:duration>
 <itunes:author>Hope O'Keeffe</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/29.html" type="text/html"/>
 </item>
 <item>
 <title>8:30 — chris abraham</title>
@@ -354,6 +388,7 @@
 <itunes:duration>1:36</itunes:duration>
 <itunes:author>chris abraham</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/30.html" type="text/html"/>
 </item>
 <item>
 <title>8:31 — Dirk Flinthart</title>
@@ -365,6 +400,7 @@
 <itunes:duration>1:33</itunes:duration>
 <itunes:author>Dirk Flinthart</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/31.html" type="text/html"/>
 </item>
 <item>
 <title>8:32 — Ginny Little</title>
@@ -376,6 +412,7 @@
 <itunes:duration>0:45</itunes:duration>
 <itunes:author>Ginny Little</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/32.html" type="text/html"/>
 </item>
 <item>
 <title>8:33 — chris abraham</title>
@@ -387,6 +424,7 @@
 <itunes:duration>2:32</itunes:duration>
 <itunes:author>chris abraham</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/33.html" type="text/html"/>
 </item>
 <item>
 <title>8:34 — chris abraham</title>
@@ -398,6 +436,7 @@
 <itunes:duration>2:50</itunes:duration>
 <itunes:author>chris abraham</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/34.html" type="text/html"/>
 </item>
 <item>
 <title>8:35 — chris abraham</title>
@@ -409,6 +448,7 @@
 <itunes:duration>2:45</itunes:duration>
 <itunes:author>chris abraham</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/35.html" type="text/html"/>
 </item>
 <item>
 <title>8:36 — Katherine Blanke (KAT)</title>
@@ -420,6 +460,7 @@
 <itunes:duration>1:15</itunes:duration>
 <itunes:author>Katherine Blanke (KAT)</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/36.html" type="text/html"/>
 </item>
 <item>
 <title>8:37 — missing</title>
@@ -431,6 +472,7 @@
 <itunes:duration>0:04</itunes:duration>
 <itunes:author>chris abraham</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/37.html" type="text/html"/>
 </item>
 <item>
 <title>8:38 — Katherine Blanke (KAT)</title>
@@ -442,6 +484,7 @@
 <itunes:duration>1:14</itunes:duration>
 <itunes:author>Katherine Blanke (KAT)</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/38.html" type="text/html"/>
 </item>
 <item>
 <title>8:39 — Ginny Little</title>
@@ -453,6 +496,7 @@
 <itunes:duration>0:31</itunes:duration>
 <itunes:author>Ginny Little</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/39.html" type="text/html"/>
 </item>
 <item>
 <title>8:40 — chris abraham</title>
@@ -464,6 +508,7 @@
 <itunes:duration>1:17</itunes:duration>
 <itunes:author>chris abraham</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/40.html" type="text/html"/>
 </item>
 <item>
 <title>8:41 — Ginny Little</title>
@@ -475,6 +520,7 @@
 <itunes:duration>0:26</itunes:duration>
 <itunes:author>Ginny Little</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/41.html" type="text/html"/>
 </item>
 <item>
 <title>8:42 — Katherine Blanke (KAT)</title>
@@ -486,6 +532,7 @@
 <itunes:duration>1:36</itunes:duration>
 <itunes:author>Katherine Blanke (KAT)</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/42.html" type="text/html"/>
 </item>
 <item>
 <title>8:43 — Ginny Little</title>
@@ -497,6 +544,7 @@
 <itunes:duration>0:10</itunes:duration>
 <itunes:author>Ginny Little</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/43.html" type="text/html"/>
 </item>
 <item>
 <title>8:44 — Kathy Madden</title>
@@ -508,6 +556,7 @@
 <itunes:duration>0:19</itunes:duration>
 <itunes:author>Kathy Madden</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/44.html" type="text/html"/>
 </item>
 <item>
 <title>8:45 — Ginny Little</title>
@@ -519,6 +568,7 @@
 <itunes:duration>0:11</itunes:duration>
 <itunes:author>Ginny Little</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/45.html" type="text/html"/>
 </item>
 <item>
 <title>8:46 — Dirk Flinthart</title>
@@ -530,6 +580,7 @@
 <itunes:duration>0:31</itunes:duration>
 <itunes:author>Dirk Flinthart</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/46.html" type="text/html"/>
 </item>
 <item>
 <title>8:47 — Phillip J. Rhoades</title>
@@ -541,6 +592,7 @@
 <itunes:duration>0:16</itunes:duration>
 <itunes:author>Phillip J. Rhoades</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/47.html" type="text/html"/>
 </item>
 <item>
 <title>8:48 — chris abraham</title>
@@ -552,6 +604,7 @@
 <itunes:duration>2:16</itunes:duration>
 <itunes:author>chris abraham</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/48.html" type="text/html"/>
 </item>
 <item>
 <title>8:49 — chris abraham</title>
@@ -563,6 +616,7 @@
 <itunes:duration>1:06</itunes:duration>
 <itunes:author>chris abraham</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/49.html" type="text/html"/>
 </item>
 <item>
 <title>8:50 — chris abraham</title>
@@ -574,6 +628,7 @@
 <itunes:duration>1:16</itunes:duration>
 <itunes:author>chris abraham</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/50.html" type="text/html"/>
 </item>
 <item>
 <title>8:51 — Ginny Little</title>
@@ -585,6 +640,7 @@
 <itunes:duration>0:54</itunes:duration>
 <itunes:author>Ginny Little</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/51.html" type="text/html"/>
 </item>
 <item>
 <title>8:52 — Red</title>
@@ -596,6 +652,7 @@
 <itunes:duration>0:28</itunes:duration>
 <itunes:author>Red</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/52.html" type="text/html"/>
 </item>
 <item>
 <title>8:53 — Katherine Blanke (KAT)</title>
@@ -607,6 +664,7 @@
 <itunes:duration>1:06</itunes:duration>
 <itunes:author>Katherine Blanke (KAT)</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/53.html" type="text/html"/>
 </item>
 <item>
 <title>8:54 — chris abraham</title>
@@ -618,6 +676,7 @@
 <itunes:duration>0:35</itunes:duration>
 <itunes:author>chris abraham</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/54.html" type="text/html"/>
 </item>
 <item>
 <title>8:55 — Hope O'Keeffe</title>
@@ -629,6 +688,7 @@
 <itunes:duration>0:30</itunes:duration>
 <itunes:author>Hope O'Keeffe</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/55.html" type="text/html"/>
 </item>
 <item>
 <title>8:56 — Phillip J. Rhoades</title>
@@ -640,6 +700,7 @@
 <itunes:duration>0:28</itunes:duration>
 <itunes:author>Phillip J. Rhoades</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/56.html" type="text/html"/>
 </item>
 <item>
 <title>8:57 — missing</title>
@@ -651,6 +712,7 @@
 <itunes:duration>0:04</itunes:duration>
 <itunes:author>chris abraham</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/57.html" type="text/html"/>
 </item>
 <item>
 <title>8:58 — Hope O'Keeffe</title>
@@ -662,6 +724,7 @@
 <itunes:duration>0:22</itunes:duration>
 <itunes:author>Hope O'Keeffe</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/58.html" type="text/html"/>
 </item>
 <item>
 <title>8:59 — Red</title>
@@ -673,6 +736,7 @@
 <itunes:duration>0:30</itunes:duration>
 <itunes:author>Red</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/59.html" type="text/html"/>
 </item>
 <item>
 <title>8:60 — missing</title>
@@ -684,6 +748,7 @@
 <itunes:duration>0:04</itunes:duration>
 <itunes:author>chris abraham</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/60.html" type="text/html"/>
 </item>
 <item>
 <title>8:61 — missing</title>
@@ -695,6 +760,7 @@
 <itunes:duration>0:04</itunes:duration>
 <itunes:author>chris abraham</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/61.html" type="text/html"/>
 </item>
 <item>
 <title>8:62 — Dirk Flinthart</title>
@@ -706,6 +772,7 @@
 <itunes:duration>0:14</itunes:duration>
 <itunes:author>Dirk Flinthart</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/62.html" type="text/html"/>
 </item>
 <item>
 <title>8:63 — chris abraham</title>
@@ -717,6 +784,7 @@
 <itunes:duration>0:47</itunes:duration>
 <itunes:author>chris abraham</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/63.html" type="text/html"/>
 </item>
 <item>
 <title>8:64 — Katherine Blanke (KAT)</title>
@@ -728,6 +796,7 @@
 <itunes:duration>0:42</itunes:duration>
 <itunes:author>Katherine Blanke (KAT)</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/64.html" type="text/html"/>
 </item>
 <item>
 <title>8:65 — spaceboy</title>
@@ -739,6 +808,7 @@
 <itunes:duration>0:15</itunes:duration>
 <itunes:author>spaceboy</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/65.html" type="text/html"/>
 </item>
 <item>
 <title>8:66 — spaceboy</title>
@@ -750,6 +820,7 @@
 <itunes:duration>0:45</itunes:duration>
 <itunes:author>spaceboy</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/66.html" type="text/html"/>
 </item>
 <item>
 <title>8:67 — Ginny Little</title>
@@ -761,6 +832,7 @@
 <itunes:duration>0:45</itunes:duration>
 <itunes:author>Ginny Little</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/67.html" type="text/html"/>
 </item>
 <item>
 <title>8:68 — Hope O'Keeffe</title>
@@ -772,6 +844,7 @@
 <itunes:duration>0:53</itunes:duration>
 <itunes:author>Hope O'Keeffe</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/68.html" type="text/html"/>
 </item>
 <item>
 <title>8:69 — Ginny Little</title>
@@ -783,6 +856,7 @@
 <itunes:duration>0:59</itunes:duration>
 <itunes:author>Ginny Little</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/69.html" type="text/html"/>
 </item>
 <item>
 <title>8:70 — missing</title>
@@ -794,6 +868,7 @@
 <itunes:duration>0:04</itunes:duration>
 <itunes:author>chris abraham</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/70.html" type="text/html"/>
 </item>
 <item>
 <title>8:71 — Dirk Flinthart</title>
@@ -805,6 +880,7 @@
 <itunes:duration>1:16</itunes:duration>
 <itunes:author>Dirk Flinthart</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/71.html" type="text/html"/>
 </item>
 <item>
 <title>8:72 — Hope O'Keeffe</title>
@@ -816,6 +892,7 @@
 <itunes:duration>1:30</itunes:duration>
 <itunes:author>Hope O'Keeffe</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/72.html" type="text/html"/>
 </item>
 <item>
 <title>8:73 — Dirk Flinthart</title>
@@ -827,6 +904,7 @@
 <itunes:duration>0:17</itunes:duration>
 <itunes:author>Dirk Flinthart</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/73.html" type="text/html"/>
 </item>
 <item>
 <title>8:74 — Ginny Little</title>
@@ -838,6 +916,7 @@
 <itunes:duration>1:49</itunes:duration>
 <itunes:author>Ginny Little</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/74.html" type="text/html"/>
 </item>
 <item>
 <title>8:75 — Red</title>
@@ -849,6 +928,7 @@
 <itunes:duration>1:32</itunes:duration>
 <itunes:author>Red</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/75.html" type="text/html"/>
 </item>
 <item>
 <title>8:76 — Katherine Blanke (KAT)</title>
@@ -860,6 +940,7 @@
 <itunes:duration>1:03</itunes:duration>
 <itunes:author>Katherine Blanke (KAT)</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/76.html" type="text/html"/>
 </item>
 <item>
 <title>8:77 — Phillip J. Rhoades</title>
@@ -871,6 +952,7 @@
 <itunes:duration>0:22</itunes:duration>
 <itunes:author>Phillip J. Rhoades</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/77.html" type="text/html"/>
 </item>
 <item>
 <title>8:78 — chris abraham</title>
@@ -882,6 +964,7 @@
 <itunes:duration>1:13</itunes:duration>
 <itunes:author>chris abraham</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/78.html" type="text/html"/>
 </item>
 <item>
 <title>8:79 — Hope O'Keeffe</title>
@@ -893,6 +976,7 @@
 <itunes:duration>0:43</itunes:duration>
 <itunes:author>Hope O'Keeffe</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/79.html" type="text/html"/>
 </item>
 <item>
 <title>8:80 — Ginny Little</title>
@@ -904,6 +988,7 @@
 <itunes:duration>0:35</itunes:duration>
 <itunes:author>Ginny Little</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/80.html" type="text/html"/>
 </item>
 <item>
 <title>8:81 — chris abraham</title>
@@ -915,6 +1000,7 @@
 <itunes:duration>2:05</itunes:duration>
 <itunes:author>chris abraham</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/81.html" type="text/html"/>
 </item>
 <item>
 <title>8:82 — Red</title>
@@ -926,6 +1012,7 @@
 <itunes:duration>1:00</itunes:duration>
 <itunes:author>Red</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/82.html" type="text/html"/>
 </item>
 <item>
 <title>8:83 — Katherine Blanke (KAT)</title>
@@ -937,6 +1024,7 @@
 <itunes:duration>1:17</itunes:duration>
 <itunes:author>Katherine Blanke (KAT)</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/83.html" type="text/html"/>
 </item>
 <item>
 <title>8:84 — Dirk Flinthart</title>
@@ -948,6 +1036,7 @@
 <itunes:duration>0:24</itunes:duration>
 <itunes:author>Dirk Flinthart</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/84.html" type="text/html"/>
 </item>
 <item>
 <title>8:85 — Red</title>
@@ -959,6 +1048,7 @@
 <itunes:duration>3:43</itunes:duration>
 <itunes:author>Red</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/85.html" type="text/html"/>
 </item>
 <item>
 <title>8:86 — chris abraham</title>
@@ -970,6 +1060,7 @@
 <itunes:duration>2:32</itunes:duration>
 <itunes:author>chris abraham</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/86.html" type="text/html"/>
 </item>
 <item>
 <title>8:87 — Hope O'Keeffe</title>
@@ -981,6 +1072,7 @@
 <itunes:duration>0:57</itunes:duration>
 <itunes:author>Hope O'Keeffe</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/87.html" type="text/html"/>
 </item>
 <item>
 <title>8:88 — Red</title>
@@ -992,6 +1084,7 @@
 <itunes:duration>2:18</itunes:duration>
 <itunes:author>Red</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/88.html" type="text/html"/>
 </item>
 <item>
 <title>8:89 — Dirk Flinthart</title>
@@ -1003,6 +1096,7 @@
 <itunes:duration>0:36</itunes:duration>
 <itunes:author>Dirk Flinthart</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/89.html" type="text/html"/>
 </item>
 <item>
 <title>8:90 — Ginny Little</title>
@@ -1014,6 +1108,7 @@
 <itunes:duration>0:42</itunes:duration>
 <itunes:author>Ginny Little</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/90.html" type="text/html"/>
 </item>
 <item>
 <title>8:91 — Aaron Webb</title>
@@ -1025,6 +1120,7 @@
 <itunes:duration>1:21</itunes:duration>
 <itunes:author>Aaron Webb</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/91.html" type="text/html"/>
 </item>
 <item>
 <title>8:92 — Hope O'Keeffe</title>
@@ -1036,6 +1132,7 @@
 <itunes:duration>1:15</itunes:duration>
 <itunes:author>Hope O'Keeffe</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/92.html" type="text/html"/>
 </item>
 <item>
 <title>8:93 — Ginny Little</title>
@@ -1047,6 +1144,7 @@
 <itunes:duration>0:48</itunes:duration>
 <itunes:author>Ginny Little</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/93.html" type="text/html"/>
 </item>
 <item>
 <title>8:94 — Red</title>
@@ -1058,6 +1156,7 @@
 <itunes:duration>0:58</itunes:duration>
 <itunes:author>Red</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/94.html" type="text/html"/>
 </item>
 <item>
 <title>8:95 — Dirk Flinthart</title>
@@ -1069,6 +1168,7 @@
 <itunes:duration>1:23</itunes:duration>
 <itunes:author>Dirk Flinthart</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/95.html" type="text/html"/>
 </item>
 <item>
 <title>8:96 — Hope O'Keeffe</title>
@@ -1080,6 +1180,7 @@
 <itunes:duration>0:55</itunes:duration>
 <itunes:author>Hope O'Keeffe</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/96.html" type="text/html"/>
 </item>
 <item>
 <title>8:97 — chris abraham</title>
@@ -1091,6 +1192,7 @@
 <itunes:duration>3:40</itunes:duration>
 <itunes:author>chris abraham</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/97.html" type="text/html"/>
 </item>
 <item>
 <title>8:98 — Ginny Little</title>
@@ -1102,6 +1204,7 @@
 <itunes:duration>1:13</itunes:duration>
 <itunes:author>Ginny Little</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/98.html" type="text/html"/>
 </item>
 <item>
 <title>8:99 — Dirk Flinthart</title>
@@ -1113,6 +1216,7 @@
 <itunes:duration>3:19</itunes:duration>
 <itunes:author>Dirk Flinthart</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/99.html" type="text/html"/>
 </item>
 <item>
 <title>8:100 — Dirk Flinthart</title>
@@ -1124,6 +1228,7 @@
 <itunes:duration>0:23</itunes:duration>
 <itunes:author>Dirk Flinthart</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/100.html" type="text/html"/>
 </item>
 <item>
 <title>8:101 — Ginny Little</title>
@@ -1135,6 +1240,7 @@
 <itunes:duration>0:13</itunes:duration>
 <itunes:author>Ginny Little</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/101.html" type="text/html"/>
 </item>
 <item>
 <title>8:102 — chris abraham</title>
@@ -1146,6 +1252,7 @@
 <itunes:duration>2:29</itunes:duration>
 <itunes:author>chris abraham</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/102.html" type="text/html"/>
 </item>
 <item>
 <title>8:103 — Ginny Little</title>
@@ -1157,6 +1264,7 @@
 <itunes:duration>1:07</itunes:duration>
 <itunes:author>Ginny Little</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/103.html" type="text/html"/>
 </item>
 <item>
 <title>8:104 — Ginny Little</title>
@@ -1168,6 +1276,7 @@
 <itunes:duration>0:52</itunes:duration>
 <itunes:author>Ginny Little</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/104.html" type="text/html"/>
 </item>
 <item>
 <title>8:105 — chris abraham</title>
@@ -1179,6 +1288,7 @@
 <itunes:duration>3:18</itunes:duration>
 <itunes:author>chris abraham</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/105.html" type="text/html"/>
 </item>
 <item>
 <title>8:106 — Dirk Flinthart</title>
@@ -1190,6 +1300,7 @@
 <itunes:duration>1:21</itunes:duration>
 <itunes:author>Dirk Flinthart</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/106.html" type="text/html"/>
 </item>
 <item>
 <title>8:107 — Phillip J. Rhoades</title>
@@ -1201,6 +1312,7 @@
 <itunes:duration>0:15</itunes:duration>
 <itunes:author>Phillip J. Rhoades</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/107.html" type="text/html"/>
 </item>
 <item>
 <title>8:108 — chris abraham</title>
@@ -1212,6 +1324,7 @@
 <itunes:duration>1:27</itunes:duration>
 <itunes:author>chris abraham</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/108.html" type="text/html"/>
 </item>
 <item>
 <title>8:109 — chris abraham</title>
@@ -1223,6 +1336,7 @@
 <itunes:duration>1:58</itunes:duration>
 <itunes:author>chris abraham</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/109.html" type="text/html"/>
 </item>
 <item>
 <title>8:110 — Ginny Little</title>
@@ -1234,6 +1348,7 @@
 <itunes:duration>1:12</itunes:duration>
 <itunes:author>Ginny Little</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/110.html" type="text/html"/>
 </item>
 <item>
 <title>8:111 — Red</title>
@@ -1245,6 +1360,7 @@
 <itunes:duration>1:27</itunes:duration>
 <itunes:author>Red</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/111.html" type="text/html"/>
 </item>
 <item>
 <title>8:112 — chris abraham</title>
@@ -1256,6 +1372,7 @@
 <itunes:duration>2:05</itunes:duration>
 <itunes:author>chris abraham</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/112.html" type="text/html"/>
 </item>
 <item>
 <title>8:113 — Dirk Flinthart</title>
@@ -1267,6 +1384,7 @@
 <itunes:duration>0:29</itunes:duration>
 <itunes:author>Dirk Flinthart</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/113.html" type="text/html"/>
 </item>
 <item>
 <title>8:114 — Phillip J. Rhoades</title>
@@ -1278,6 +1396,7 @@
 <itunes:duration>0:16</itunes:duration>
 <itunes:author>Phillip J. Rhoades</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/114.html" type="text/html"/>
 </item>
 <item>
 <title>8:115 — Hope O'Keeffe</title>
@@ -1289,6 +1408,7 @@
 <itunes:duration>0:18</itunes:duration>
 <itunes:author>Hope O'Keeffe</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/115.html" type="text/html"/>
 </item>
 <item>
 <title>8:116 — chris abraham</title>
@@ -1300,6 +1420,7 @@
 <itunes:duration>2:23</itunes:duration>
 <itunes:author>chris abraham</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/116.html" type="text/html"/>
 </item>
 <item>
 <title>8:117 — Shawn Nicolen</title>
@@ -1311,6 +1432,7 @@
 <itunes:duration>0:16</itunes:duration>
 <itunes:author>Shawn Nicolen</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/117.html" type="text/html"/>
 </item>
 <item>
 <title>8:118 — chris abraham</title>
@@ -1322,6 +1444,7 @@
 <itunes:duration>1:57</itunes:duration>
 <itunes:author>chris abraham</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/118.html" type="text/html"/>
 </item>
 <item>
 <title>8:119 — missing</title>
@@ -1333,6 +1456,7 @@
 <itunes:duration>0:05</itunes:duration>
 <itunes:author>chris abraham</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/119.html" type="text/html"/>
 </item>
 <item>
 <title>8:120 — Ginny Little</title>
@@ -1344,6 +1468,7 @@
 <itunes:duration>1:00</itunes:duration>
 <itunes:author>Ginny Little</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/120.html" type="text/html"/>
 </item>
 <item>
 <title>8:121 — Aaron Webb</title>
@@ -1355,6 +1480,7 @@
 <itunes:duration>2:36</itunes:duration>
 <itunes:author>Aaron Webb</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/121.html" type="text/html"/>
 </item>
 <item>
 <title>8:122 — Dirk Flinthart</title>
@@ -1366,6 +1492,7 @@
 <itunes:duration>0:36</itunes:duration>
 <itunes:author>Dirk Flinthart</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/122.html" type="text/html"/>
 </item>
 <item>
 <title>8:123 — chris abraham</title>
@@ -1377,6 +1504,7 @@
 <itunes:duration>2:17</itunes:duration>
 <itunes:author>chris abraham</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/123.html" type="text/html"/>
 </item>
 <item>
 <title>8:124 — Dirk Flinthart</title>
@@ -1388,6 +1516,7 @@
 <itunes:duration>1:54</itunes:duration>
 <itunes:author>Dirk Flinthart</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/124.html" type="text/html"/>
 </item>
 <item>
 <title>8:125 — Phillip J. Rhoades</title>
@@ -1399,6 +1528,7 @@
 <itunes:duration>0:19</itunes:duration>
 <itunes:author>Phillip J. Rhoades</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/125.html" type="text/html"/>
 </item>
 <item>
 <title>8:126 — Ginny Little</title>
@@ -1410,6 +1540,7 @@
 <itunes:duration>1:03</itunes:duration>
 <itunes:author>Ginny Little</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/126.html" type="text/html"/>
 </item>
 <item>
 <title>8:127 — chris abraham</title>
@@ -1421,6 +1552,7 @@
 <itunes:duration>0:49</itunes:duration>
 <itunes:author>chris abraham</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/127.html" type="text/html"/>
 </item>
 <item>
 <title>8:128 — Ginny Little</title>
@@ -1432,6 +1564,7 @@
 <itunes:duration>0:21</itunes:duration>
 <itunes:author>Ginny Little</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/128.html" type="text/html"/>
 </item>
 <item>
 <title>8:129 — chris abraham</title>
@@ -1443,6 +1576,7 @@
 <itunes:duration>0:28</itunes:duration>
 <itunes:author>chris abraham</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/129.html" type="text/html"/>
 </item>
 <item>
 <title>8:130 — chris abraham</title>
@@ -1454,6 +1588,7 @@
 <itunes:duration>1:19</itunes:duration>
 <itunes:author>chris abraham</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/130.html" type="text/html"/>
 </item>
 <item>
 <title>8:131 — Ginny Little</title>
@@ -1465,6 +1600,7 @@
 <itunes:duration>0:42</itunes:duration>
 <itunes:author>Ginny Little</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/131.html" type="text/html"/>
 </item>
 <item>
 <title>8:132 — Katherine Blanke (KAT)</title>
@@ -1476,6 +1612,7 @@
 <itunes:duration>1:23</itunes:duration>
 <itunes:author>Katherine Blanke (KAT)</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/132.html" type="text/html"/>
 </item>
 <item>
 <title>8:133 — Shawn Nicolen</title>
@@ -1487,6 +1624,7 @@
 <itunes:duration>1:10</itunes:duration>
 <itunes:author>Shawn Nicolen</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/133.html" type="text/html"/>
 </item>
 <item>
 <title>8:134 — Ginny Little</title>
@@ -1498,6 +1636,7 @@
 <itunes:duration>0:43</itunes:duration>
 <itunes:author>Ginny Little</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/134.html" type="text/html"/>
 </item>
 <item>
 <title>8:135 — Ginny Little</title>
@@ -1509,6 +1648,7 @@
 <itunes:duration>2:18</itunes:duration>
 <itunes:author>Ginny Little</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/135.html" type="text/html"/>
 </item>
 <item>
 <title>8:136 — Katherine Blanke (KAT)</title>
@@ -1520,6 +1660,7 @@
 <itunes:duration>0:59</itunes:duration>
 <itunes:author>Katherine Blanke (KAT)</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/136.html" type="text/html"/>
 </item>
 <item>
 <title>8:137 — Shawn Nicolen</title>
@@ -1531,6 +1672,7 @@
 <itunes:duration>0:18</itunes:duration>
 <itunes:author>Shawn Nicolen</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/137.html" type="text/html"/>
 </item>
 <item>
 <title>8:138 — Sarah Neyaz</title>
@@ -1542,6 +1684,7 @@
 <itunes:duration>0:37</itunes:duration>
 <itunes:author>Sarah Neyaz</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/138.html" type="text/html"/>
 </item>
 <item>
 <title>8:139 — Hope O'Keeffe</title>
@@ -1553,6 +1696,7 @@
 <itunes:duration>1:04</itunes:duration>
 <itunes:author>Hope O'Keeffe</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/139.html" type="text/html"/>
 </item>
 <item>
 <title>8:140 — Shawn Nicolen</title>
@@ -1564,6 +1708,7 @@
 <itunes:duration>0:10</itunes:duration>
 <itunes:author>Shawn Nicolen</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/140.html" type="text/html"/>
 </item>
 <item>
 <title>8:141 — Sarah Neyaz</title>
@@ -1575,6 +1720,7 @@
 <itunes:duration>0:23</itunes:duration>
 <itunes:author>Sarah Neyaz</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/141.html" type="text/html"/>
 </item>
 <item>
 <title>8:142 — Hope O'Keeffe</title>
@@ -1586,6 +1732,7 @@
 <itunes:duration>0:56</itunes:duration>
 <itunes:author>Hope O'Keeffe</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/142.html" type="text/html"/>
 </item>
 <item>
 <title>8:143 — Ginny Little</title>
@@ -1597,6 +1744,7 @@
 <itunes:duration>0:25</itunes:duration>
 <itunes:author>Ginny Little</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/143.html" type="text/html"/>
 </item>
 <item>
 <title>8:144 — Sarah Neyaz</title>
@@ -1608,6 +1756,7 @@
 <itunes:duration>0:39</itunes:duration>
 <itunes:author>Sarah Neyaz</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/144.html" type="text/html"/>
 </item>
 <item>
 <title>8:145 — missing</title>
@@ -1619,6 +1768,7 @@
 <itunes:duration>0:05</itunes:duration>
 <itunes:author>chris abraham</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/145.html" type="text/html"/>
 </item>
 <item>
 <title>8:146 — missing</title>
@@ -1630,6 +1780,7 @@
 <itunes:duration>0:05</itunes:duration>
 <itunes:author>chris abraham</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/146.html" type="text/html"/>
 </item>
 <item>
 <title>8:147 — missing</title>
@@ -1641,6 +1792,7 @@
 <itunes:duration>0:05</itunes:duration>
 <itunes:author>chris abraham</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/147.html" type="text/html"/>
 </item>
 <item>
 <title>8:148 — Hope O'Keeffe</title>
@@ -1652,6 +1804,7 @@
 <itunes:duration>0:29</itunes:duration>
 <itunes:author>Hope O'Keeffe</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/148.html" type="text/html"/>
 </item>
 <item>
 <title>8:149 — Shawn Nicolen</title>
@@ -1663,6 +1816,7 @@
 <itunes:duration>0:44</itunes:duration>
 <itunes:author>Shawn Nicolen</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/149.html" type="text/html"/>
 </item>
 <item>
 <title>8:150 — Sarah Neyaz</title>
@@ -1674,6 +1828,7 @@
 <itunes:duration>1:03</itunes:duration>
 <itunes:author>Sarah Neyaz</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/150.html" type="text/html"/>
 </item>
 <item>
 <title>8:151 — chris abraham</title>
@@ -1685,6 +1840,7 @@
 <itunes:duration>0:19</itunes:duration>
 <itunes:author>chris abraham</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/151.html" type="text/html"/>
 </item>
 <item>
 <title>8:152 — Dirk Flinthart</title>
@@ -1696,6 +1852,7 @@
 <itunes:duration>0:41</itunes:duration>
 <itunes:author>Dirk Flinthart</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/152.html" type="text/html"/>
 </item>
 <item>
 <title>8:153 — Hope O'Keeffe</title>
@@ -1707,6 +1864,7 @@
 <itunes:duration>0:53</itunes:duration>
 <itunes:author>Hope O'Keeffe</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/153.html" type="text/html"/>
 </item>
 <item>
 <title>8:154 — Ginny Little</title>
@@ -1718,6 +1876,7 @@
 <itunes:duration>1:19</itunes:duration>
 <itunes:author>Ginny Little</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/154.html" type="text/html"/>
 </item>
 <item>
 <title>8:155 — chris abraham</title>
@@ -1729,6 +1888,7 @@
 <itunes:duration>0:33</itunes:duration>
 <itunes:author>chris abraham</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/155.html" type="text/html"/>
 </item>
 <item>
 <title>8:156 — Justin Sacks (Pell)</title>
@@ -1740,6 +1900,7 @@
 <itunes:duration>0:39</itunes:duration>
 <itunes:author>Justin Sacks (Pell)</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/156.html" type="text/html"/>
 </item>
 <item>
 <title>8:157 — Hope O'Keeffe</title>
@@ -1751,6 +1912,7 @@
 <itunes:duration>0:48</itunes:duration>
 <itunes:author>Hope O'Keeffe</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/157.html" type="text/html"/>
 </item>
 <item>
 <title>8:158 — chris abraham</title>
@@ -1762,6 +1924,7 @@
 <itunes:duration>2:43</itunes:duration>
 <itunes:author>chris abraham</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/158.html" type="text/html"/>
 </item>
 <item>
 <title>8:159 — chris abraham</title>
@@ -1773,6 +1936,7 @@
 <itunes:duration>0:40</itunes:duration>
 <itunes:author>chris abraham</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/159.html" type="text/html"/>
 </item>
 <item>
 <title>8:160 — Katherine Blanke (KAT)</title>
@@ -1784,6 +1948,7 @@
 <itunes:duration>1:57</itunes:duration>
 <itunes:author>Katherine Blanke (KAT)</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/160.html" type="text/html"/>
 </item>
 <item>
 <title>8:161 — chris abraham</title>
@@ -1795,6 +1960,7 @@
 <itunes:duration>2:39</itunes:duration>
 <itunes:author>chris abraham</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/161.html" type="text/html"/>
 </item>
 <item>
 <title>8:162 — chris abraham</title>
@@ -1806,6 +1972,7 @@
 <itunes:duration>1:46</itunes:duration>
 <itunes:author>chris abraham</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/162.html" type="text/html"/>
 </item>
 <item>
 <title>8:163 — Ginny Little</title>
@@ -1817,6 +1984,7 @@
 <itunes:duration>1:10</itunes:duration>
 <itunes:author>Ginny Little</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/163.html" type="text/html"/>
 </item>
 <item>
 <title>8:164 — chris abraham</title>
@@ -1828,6 +1996,7 @@
 <itunes:duration>2:19</itunes:duration>
 <itunes:author>chris abraham</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/164.html" type="text/html"/>
 </item>
 <item>
 <title>8:165 — Red</title>
@@ -1839,6 +2008,7 @@
 <itunes:duration>0:43</itunes:duration>
 <itunes:author>Red</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/165.html" type="text/html"/>
 </item>
 <item>
 <title>8:166 — Hope O'Keeffe</title>
@@ -1850,6 +2020,7 @@
 <itunes:duration>0:28</itunes:duration>
 <itunes:author>Hope O'Keeffe</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/166.html" type="text/html"/>
 </item>
 <item>
 <title>8:167 — missing</title>
@@ -1861,6 +2032,7 @@
 <itunes:duration>0:05</itunes:duration>
 <itunes:author>chris abraham</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/167.html" type="text/html"/>
 </item>
 <item>
 <title>8:168 — chris abraham</title>
@@ -1872,6 +2044,7 @@
 <itunes:duration>1:03</itunes:duration>
 <itunes:author>chris abraham</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/168.html" type="text/html"/>
 </item>
 <item>
 <title>8:169 — chris abraham</title>
@@ -1883,6 +2056,7 @@
 <itunes:duration>0:47</itunes:duration>
 <itunes:author>chris abraham</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/169.html" type="text/html"/>
 </item>
 <item>
 <title>8:170 — Ginny Little</title>
@@ -1894,6 +2068,7 @@
 <itunes:duration>0:14</itunes:duration>
 <itunes:author>Ginny Little</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/170.html" type="text/html"/>
 </item>
 <item>
 <title>8:171 — chris abraham</title>
@@ -1905,6 +2080,7 @@
 <itunes:duration>0:48</itunes:duration>
 <itunes:author>chris abraham</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/171.html" type="text/html"/>
 </item>
 <item>
 <title>8:172 — Aaron Webb</title>
@@ -1916,6 +2092,7 @@
 <itunes:duration>1:46</itunes:duration>
 <itunes:author>Aaron Webb</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/172.html" type="text/html"/>
 </item>
 <item>
 <title>8:173 — chris abraham</title>
@@ -1927,6 +2104,7 @@
 <itunes:duration>1:15</itunes:duration>
 <itunes:author>chris abraham</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/173.html" type="text/html"/>
 </item>
 <item>
 <title>8:174 — chris abraham</title>
@@ -1938,6 +2116,7 @@
 <itunes:duration>1:12</itunes:duration>
 <itunes:author>chris abraham</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/174.html" type="text/html"/>
 </item>
 <item>
 <title>8:175 — Hope O'Keeffe</title>
@@ -1949,6 +2128,7 @@
 <itunes:duration>0:31</itunes:duration>
 <itunes:author>Hope O'Keeffe</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/175.html" type="text/html"/>
 </item>
 <item>
 <title>8:176 — missing</title>
@@ -1960,6 +2140,7 @@
 <itunes:duration>0:05</itunes:duration>
 <itunes:author>chris abraham</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/176.html" type="text/html"/>
 </item>
 <item>
 <title>8:177 — chris abraham</title>
@@ -1971,6 +2152,7 @@
 <itunes:duration>1:03</itunes:duration>
 <itunes:author>chris abraham</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/177.html" type="text/html"/>
 </item>
 <item>
 <title>8:178 — Red</title>
@@ -1982,6 +2164,7 @@
 <itunes:duration>0:58</itunes:duration>
 <itunes:author>Red</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/178.html" type="text/html"/>
 </item>
 <item>
 <title>8:179 — Hope O'Keeffe</title>
@@ -1993,6 +2176,7 @@
 <itunes:duration>0:14</itunes:duration>
 <itunes:author>Hope O'Keeffe</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/179.html" type="text/html"/>
 </item>
 <item>
 <title>8:180 — chris abraham</title>
@@ -2004,6 +2188,7 @@
 <itunes:duration>0:24</itunes:duration>
 <itunes:author>chris abraham</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/180.html" type="text/html"/>
 </item>
 <item>
 <title>8:181 — Ginny Little</title>
@@ -2015,6 +2200,7 @@
 <itunes:duration>0:24</itunes:duration>
 <itunes:author>Ginny Little</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/181.html" type="text/html"/>
 </item>
 <item>
 <title>8:182 — Hope O'Keeffe</title>
@@ -2026,6 +2212,7 @@
 <itunes:duration>1:12</itunes:duration>
 <itunes:author>Hope O'Keeffe</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/182.html" type="text/html"/>
 </item>
 <item>
 <title>8:183 — Hope O'Keeffe</title>
@@ -2037,6 +2224,7 @@
 <itunes:duration>1:44</itunes:duration>
 <itunes:author>Hope O'Keeffe</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/183.html" type="text/html"/>
 </item>
 <item>
 <title>8:184 — Ginny Little</title>
@@ -2048,6 +2236,7 @@
 <itunes:duration>0:42</itunes:duration>
 <itunes:author>Ginny Little</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/184.html" type="text/html"/>
 </item>
 <item>
 <title>8:185 — Hope O'Keeffe</title>
@@ -2059,6 +2248,7 @@
 <itunes:duration>1:37</itunes:duration>
 <itunes:author>Hope O'Keeffe</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/185.html" type="text/html"/>
 </item>
 <item>
 <title>8:186 — chris abraham</title>
@@ -2070,6 +2260,7 @@
 <itunes:duration>1:17</itunes:duration>
 <itunes:author>chris abraham</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/186.html" type="text/html"/>
 </item>
 <item>
 <title>8:187 — missing</title>
@@ -2081,6 +2272,7 @@
 <itunes:duration>0:05</itunes:duration>
 <itunes:author>chris abraham</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/187.html" type="text/html"/>
 </item>
 <item>
 <title>8:188 — Aaron Webb</title>
@@ -2092,6 +2284,7 @@
 <itunes:duration>1:55</itunes:duration>
 <itunes:author>Aaron Webb</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/188.html" type="text/html"/>
 </item>
 <item>
 <title>8:189 — Red</title>
@@ -2103,6 +2296,7 @@
 <itunes:duration>1:39</itunes:duration>
 <itunes:author>Red</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/189.html" type="text/html"/>
 </item>
 <item>
 <title>8:190 — missing</title>
@@ -2114,6 +2308,7 @@
 <itunes:duration>0:05</itunes:duration>
 <itunes:author>chris abraham</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/190.html" type="text/html"/>
 </item>
 <item>
 <title>8:191 — missing</title>
@@ -2125,6 +2320,7 @@
 <itunes:duration>0:05</itunes:duration>
 <itunes:author>chris abraham</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/191.html" type="text/html"/>
 </item>
 <item>
 <title>8:192 — Shawn Nicolen</title>
@@ -2136,6 +2332,7 @@
 <itunes:duration>0:32</itunes:duration>
 <itunes:author>Shawn Nicolen</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/192.html" type="text/html"/>
 </item>
 <item>
 <title>8:193 — missing</title>
@@ -2147,6 +2344,7 @@
 <itunes:duration>0:05</itunes:duration>
 <itunes:author>chris abraham</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/193.html" type="text/html"/>
 </item>
 <item>
 <title>8:194 — missing</title>
@@ -2158,6 +2356,7 @@
 <itunes:duration>0:05</itunes:duration>
 <itunes:author>chris abraham</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/194.html" type="text/html"/>
 </item>
 <item>
 <title>8:195 — missing</title>
@@ -2169,6 +2368,7 @@
 <itunes:duration>0:05</itunes:duration>
 <itunes:author>chris abraham</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/195.html" type="text/html"/>
 </item>
 <item>
 <title>8:196 — missing</title>
@@ -2180,6 +2380,7 @@
 <itunes:duration>0:05</itunes:duration>
 <itunes:author>chris abraham</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/196.html" type="text/html"/>
 </item>
 <item>
 <title>8:197 — missing</title>
@@ -2191,6 +2392,7 @@
 <itunes:duration>0:05</itunes:duration>
 <itunes:author>chris abraham</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/197.html" type="text/html"/>
 </item>
 <item>
 <title>8:198 — missing</title>
@@ -2202,6 +2404,7 @@
 <itunes:duration>0:05</itunes:duration>
 <itunes:author>chris abraham</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/198.html" type="text/html"/>
 </item>
 <item>
 <title>8:199 — missing</title>
@@ -2213,6 +2416,7 @@
 <itunes:duration>0:05</itunes:duration>
 <itunes:author>chris abraham</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/199.html" type="text/html"/>
 </item>
 <item>
 <title>8:200 — Katherine Blanke (KAT)</title>
@@ -2224,6 +2428,7 @@
 <itunes:duration>0:45</itunes:duration>
 <itunes:author>Katherine Blanke (KAT)</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/200.html" type="text/html"/>
 </item>
 <item>
 <title>8:201 — missing</title>
@@ -2235,6 +2440,7 @@
 <itunes:duration>0:05</itunes:duration>
 <itunes:author>chris abraham</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/201.html" type="text/html"/>
 </item>
 <item>
 <title>8:202 — Sarah Neyaz</title>
@@ -2246,6 +2452,7 @@
 <itunes:duration>0:47</itunes:duration>
 <itunes:author>Sarah Neyaz</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/202.html" type="text/html"/>
 </item>
 <item>
 <title>8:203 — Hope O'Keeffe</title>
@@ -2257,6 +2464,7 @@
 <itunes:duration>1:38</itunes:duration>
 <itunes:author>Hope O'Keeffe</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/203.html" type="text/html"/>
 </item>
 <item>
 <title>8:204 — Netiva Caftori</title>
@@ -2268,6 +2476,7 @@
 <itunes:duration>0:42</itunes:duration>
 <itunes:author>Netiva Caftori</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/204.html" type="text/html"/>
 </item>
 <item>
 <title>8:205 — Katherine Blanke (KAT)</title>
@@ -2279,6 +2488,7 @@
 <itunes:duration>0:36</itunes:duration>
 <itunes:author>Katherine Blanke (KAT)</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/205.html" type="text/html"/>
 </item>
 <item>
 <title>8:206 — Red</title>
@@ -2290,6 +2500,7 @@
 <itunes:duration>1:33</itunes:duration>
 <itunes:author>Red</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/206.html" type="text/html"/>
 </item>
 <item>
 <title>8:207 — Dirk Flinthart</title>
@@ -2301,6 +2512,7 @@
 <itunes:duration>0:10</itunes:duration>
 <itunes:author>Dirk Flinthart</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/207.html" type="text/html"/>
 </item>
 <item>
 <title>8:208 — Katherine Blanke (KAT)</title>
@@ -2312,6 +2524,7 @@
 <itunes:duration>1:32</itunes:duration>
 <itunes:author>Katherine Blanke (KAT)</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/208.html" type="text/html"/>
 </item>
 <item>
 <title>8:209 — missing</title>
@@ -2323,6 +2536,7 @@
 <itunes:duration>0:05</itunes:duration>
 <itunes:author>chris abraham</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/209.html" type="text/html"/>
 </item>
 <item>
 <title>8:210 — missing</title>
@@ -2334,6 +2548,7 @@
 <itunes:duration>0:04</itunes:duration>
 <itunes:author>chris abraham</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/210.html" type="text/html"/>
 </item>
 <item>
 <title>8:211 — Hope O'Keeffe</title>
@@ -2345,6 +2560,7 @@
 <itunes:duration>0:28</itunes:duration>
 <itunes:author>Hope O'Keeffe</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/211.html" type="text/html"/>
 </item>
 <item>
 <title>8:212 — Michelle Nolan</title>
@@ -2356,6 +2572,7 @@
 <itunes:duration>0:52</itunes:duration>
 <itunes:author>Michelle Nolan</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/212.html" type="text/html"/>
 </item>
 <item>
 <title>8:213 — Red</title>
@@ -2367,6 +2584,7 @@
 <itunes:duration>0:37</itunes:duration>
 <itunes:author>Red</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/213.html" type="text/html"/>
 </item>
 <item>
 <title>8:214 — Elizabeth Lower-Basch</title>
@@ -2378,6 +2596,7 @@
 <itunes:duration>0:54</itunes:duration>
 <itunes:author>Elizabeth Lower-Basch</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/214.html" type="text/html"/>
 </item>
 <item>
 <title>8:215 — Sarah Neyaz</title>
@@ -2389,6 +2608,7 @@
 <itunes:duration>0:50</itunes:duration>
 <itunes:author>Sarah Neyaz</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/215.html" type="text/html"/>
 </item>
 <item>
 <title>8:216 — Ginny Little</title>
@@ -2400,6 +2620,7 @@
 <itunes:duration>0:37</itunes:duration>
 <itunes:author>Ginny Little</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/216.html" type="text/html"/>
 </item>
 <item>
 <title>8:217 — Dirk Flinthart</title>
@@ -2411,6 +2632,7 @@
 <itunes:duration>1:12</itunes:duration>
 <itunes:author>Dirk Flinthart</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/217.html" type="text/html"/>
 </item>
 <item>
 <title>8:218 — Ginny Little</title>
@@ -2422,6 +2644,7 @@
 <itunes:duration>2:07</itunes:duration>
 <itunes:author>Ginny Little</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/218.html" type="text/html"/>
 </item>
 <item>
 <title>8:219 — Shawn Nicolen</title>
@@ -2433,6 +2656,7 @@
 <itunes:duration>0:23</itunes:duration>
 <itunes:author>Shawn Nicolen</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/219.html" type="text/html"/>
 </item>
 <item>
 <title>8:220 — Red</title>
@@ -2444,6 +2668,7 @@
 <itunes:duration>0:41</itunes:duration>
 <itunes:author>Red</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/220.html" type="text/html"/>
 </item>
 <item>
 <title>8:221 — Katherine Blanke (KAT)</title>
@@ -2455,6 +2680,7 @@
 <itunes:duration>0:39</itunes:duration>
 <itunes:author>Katherine Blanke (KAT)</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/221.html" type="text/html"/>
 </item>
 <item>
 <title>8:222 — Elizabeth Lower-Basch</title>
@@ -2466,6 +2692,7 @@
 <itunes:duration>0:17</itunes:duration>
 <itunes:author>Elizabeth Lower-Basch</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/222.html" type="text/html"/>
 </item>
 <item>
 <title>8:223 — Netiva Caftori</title>
@@ -2477,6 +2704,7 @@
 <itunes:duration>0:21</itunes:duration>
 <itunes:author>Netiva Caftori</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/223.html" type="text/html"/>
 </item>
 <item>
 <title>8:224 — Hope O'Keeffe</title>
@@ -2488,6 +2716,7 @@
 <itunes:duration>0:18</itunes:duration>
 <itunes:author>Hope O'Keeffe</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/224.html" type="text/html"/>
 </item>
 <item>
 <title>8:225 — Shawn Nicolen</title>
@@ -2499,6 +2728,7 @@
 <itunes:duration>0:35</itunes:duration>
 <itunes:author>Shawn Nicolen</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/225.html" type="text/html"/>
 </item>
 <item>
 <title>8:226 — Dirk Flinthart</title>
@@ -2510,6 +2740,7 @@
 <itunes:duration>0:40</itunes:duration>
 <itunes:author>Dirk Flinthart</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/226.html" type="text/html"/>
 </item>
 <item>
 <title>8:227 — Netiva Caftori</title>
@@ -2521,6 +2752,7 @@
 <itunes:duration>0:16</itunes:duration>
 <itunes:author>Netiva Caftori</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/227.html" type="text/html"/>
 </item>
 <item>
 <title>8:228 — Hope O'Keeffe</title>
@@ -2532,6 +2764,7 @@
 <itunes:duration>1:40</itunes:duration>
 <itunes:author>Hope O'Keeffe</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/228.html" type="text/html"/>
 </item>
 <item>
 <title>8:229 — missing</title>
@@ -2543,6 +2776,7 @@
 <itunes:duration>0:05</itunes:duration>
 <itunes:author>chris abraham</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/229.html" type="text/html"/>
 </item>
 <item>
 <title>8:230 — Katherine Blanke (KAT)</title>
@@ -2554,6 +2788,7 @@
 <itunes:duration>0:16</itunes:duration>
 <itunes:author>Katherine Blanke (KAT)</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/230.html" type="text/html"/>
 </item>
 <item>
 <title>8:231 — Netiva Caftori</title>
@@ -2565,6 +2800,7 @@
 <itunes:duration>0:20</itunes:duration>
 <itunes:author>Netiva Caftori</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/231.html" type="text/html"/>
 </item>
 <item>
 <title>8:232 — Red</title>
@@ -2576,6 +2812,7 @@
 <itunes:duration>1:33</itunes:duration>
 <itunes:author>Red</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/232.html" type="text/html"/>
 </item>
 <item>
 <title>8:233 — chris abraham</title>
@@ -2587,6 +2824,7 @@
 <itunes:duration>3:50</itunes:duration>
 <itunes:author>chris abraham</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/233.html" type="text/html"/>
 </item>
 <item>
 <title>8:234 — Barry Bluestein</title>
@@ -2598,6 +2836,7 @@
 <itunes:duration>0:13</itunes:duration>
 <itunes:author>Barry Bluestein</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/234.html" type="text/html"/>
 </item>
 <item>
 <title>8:235 — Aaron Webb</title>
@@ -2609,6 +2848,7 @@
 <itunes:duration>2:57</itunes:duration>
 <itunes:author>Aaron Webb</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/235.html" type="text/html"/>
 </item>
 <item>
 <title>8:236 — chris abraham</title>
@@ -2620,6 +2860,7 @@
 <itunes:duration>2:13</itunes:duration>
 <itunes:author>chris abraham</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/236.html" type="text/html"/>
 </item>
 <item>
 <title>8:237 — Hope O'Keeffe</title>
@@ -2631,6 +2872,7 @@
 <itunes:duration>0:46</itunes:duration>
 <itunes:author>Hope O'Keeffe</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/237.html" type="text/html"/>
 </item>
 <item>
 <title>8:238 — missing</title>
@@ -2642,6 +2884,7 @@
 <itunes:duration>0:05</itunes:duration>
 <itunes:author>chris abraham</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/238.html" type="text/html"/>
 </item>
 <item>
 <title>8:239 — missing</title>
@@ -2653,6 +2896,7 @@
 <itunes:duration>0:05</itunes:duration>
 <itunes:author>chris abraham</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/239.html" type="text/html"/>
 </item>
 <item>
 <title>8:240 — chris abraham</title>
@@ -2664,6 +2908,7 @@
 <itunes:duration>2:16</itunes:duration>
 <itunes:author>chris abraham</itunes:author>
 <itunes:explicit>false</itunes:explicit>
+<podcast:transcript url="https://item8.org/8/240.html" type="text/html"/>
 </item>
 </channel>
 </rss>

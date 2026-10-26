@@ -83,6 +83,9 @@
   .listen{max-width:44rem;margin:0 0 1.8rem}
   .listen .lhead{color:var(--stamp);font-size:.95rem;font-style:italic;margin:0 0 .3rem}
   .listen audio{width:100%;max-width:28rem;display:block}
+  /* share — one quiet row above the footer (v1.4): plain links, no scripts */
+  .share{max-width:44rem;margin:0 0 2.2rem;font-size:.95rem;color:var(--stamp)}
+  .share a{margin-right:1.1rem}
   /* single-response pages */
   .posline{max-width:44rem;color:var(--stamp);font-style:italic;margin:.2rem 0 1rem}
   .pawnav{display:flex;justify-content:space-between;align-items:baseline;gap:.6rem 1rem;
