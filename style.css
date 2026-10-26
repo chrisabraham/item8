@@ -4,17 +4,17 @@
    No serifs anywhere. No external assets. */
   :root, :root[data-theme="web"]{
     --bg:#fff; --ink:#111;
-    --wordmark:#f59e0b; --tag:#e8890c; --stamp:#e8890c;
+    --wordmark:#f59e0b; --tag:#ad5e00; --stamp:#ad5e00;
     --link:#551a8b; --hot:#ff2d00; --accent:#00008b; --alt:#4e7d74; --blue:#0000ee;
-    --band:#f59e0b; --band-ink:#0000ee; --copy:#00a000;
+    --band:#f59e0b; --band-ink:#0000dd; --copy:#004b00;
     --font:Arial,Helvetica,sans-serif;
     --wfont:"Arial Rounded MT Bold",Arial,Helvetica,sans-serif;
     --promptshow:none; --ruleshow:block;
   }
   :root[data-theme="cmd"]{
     --bg:#16110a; --ink:#ffb648;
-    --wordmark:#ffb648; --tag:#d99b35; --stamp:#8a6a2f;
-    --link:#ffb648; --hot:#ffd88a; --accent:#d99b35; --alt:#8a6a2f; --blue:#ffb648;
+    --wordmark:#ffb648; --tag:#d99b35; --stamp:#a8843e;
+    --link:#ffb648; --hot:#ffd88a; --accent:#d99b35; --alt:#a8843e; --blue:#ffb648;
     --band:#ffb648; --band-ink:#16110a; --copy:#16110a;
     --font:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace;
     --wfont:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace;
