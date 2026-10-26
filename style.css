@@ -79,6 +79,12 @@
     border:1px dashed var(--stamp);padding:.35rem .7rem;margin:0 0 2rem}
   .ednote{max-width:44rem;color:var(--stamp);font-size:.95rem;font-style:italic;margin:-1.4rem 0 2rem}
   .inriver{font-size:.9rem}
+  /* single-response pages */
+  .posline{max-width:44rem;color:var(--stamp);font-style:italic;margin:.2rem 0 1rem}
+  .pawnav{display:flex;justify-content:space-between;align-items:baseline;gap:.6rem 1rem;
+    max-width:44rem;border-top:2px solid var(--wordmark);padding-top:.8rem;margin:0 0 2.4rem;flex-wrap:wrap}
+  .pawnav .pv,.pawnav .nx{font-weight:700}
+  .pawnav .mid{font-size:.95rem;text-align:center}
   /* prose pages */
   .prose{max-width:42rem;margin:0 0 2.4rem}
   .prose h2{font-style:italic;color:var(--accent);font-size:1.45rem;margin:1.8rem 0 .4rem}
