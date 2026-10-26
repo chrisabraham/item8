@@ -79,6 +79,10 @@
     border:1px dashed var(--stamp);padding:.35rem .7rem;margin:0 0 2rem}
   .ednote{max-width:44rem;color:var(--stamp);font-size:.95rem;font-style:italic;margin:-1.4rem 0 2rem}
   .inriver{font-size:.9rem}
+  /* the voices (v1.3): a player under a response, on pages and strands */
+  .listen{max-width:44rem;margin:0 0 1.8rem}
+  .listen .lhead{color:var(--stamp);font-size:.95rem;font-style:italic;margin:0 0 .3rem}
+  .listen audio{width:100%;max-width:28rem;display:block}
   /* single-response pages */
   .posline{max-width:44rem;color:var(--stamp);font-style:italic;margin:.2rem 0 1rem}
   .pawnav{display:flex;justify-content:space-between;align-items:baseline;gap:.6rem 1rem;
