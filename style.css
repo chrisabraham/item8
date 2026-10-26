@@ -111,8 +111,6 @@
   dl.gloss dd{margin:0}
   footer{background:var(--band);margin-top:1rem}
   footer .in{max-width:62rem;margin:0 auto;padding:.6rem 1.2rem;font-size:1.05rem}
-  footer .footnav{display:flex;flex-direction:column;gap:.25rem 0}
-  footer .footrow{display:flex;flex-wrap:wrap;gap:.25rem 1.3rem;align-items:baseline}
-  footer a{color:var(--band-ink);flex:none}
+  footer a{color:var(--band-ink)}
   footer .copy{color:var(--copy);margin:.35rem 0 0;font-size:1rem}
   @media (max-width:44rem){ .sky{height:31rem} .s-river{font-size:1.9rem} }
