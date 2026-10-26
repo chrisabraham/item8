@@ -96,6 +96,12 @@
     text-align:left;vertical-align:top;font-size:1rem}
   table.roster th{color:var(--accent);font-style:italic}
   .forms{color:var(--stamp);font-size:.92rem}
+  /* the reference shelf: index, glossary, faq */
+  .aznav{max-width:44rem;font-size:1.05rem;margin:.6rem 0 0}
+  .idxe{max-width:44rem;margin:.35rem 0;overflow-wrap:break-word}
+  dl.gloss{max-width:42rem;margin:0 0 2.4rem}
+  dl.gloss dt{font-weight:700;color:var(--accent);font-size:1.12rem;margin:1.4rem 0 .2rem}
+  dl.gloss dd{margin:0}
   footer{background:var(--band);margin-top:1rem}
   footer .in{max-width:62rem;margin:0 auto;padding:.6rem 1.2rem;font-size:1.05rem}
   footer a{color:var(--band-ink);margin-right:1.3rem}
