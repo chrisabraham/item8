@@ -18,6 +18,7 @@
 - [Index of the work](https://item8.org/work-index.html): every person, place, organization, work and motif the text names — 195 entries, 764 citations, machine-checked against the transcript.
 - [Glossary](https://item8.org/glossary.html): the vocabulary of the room — coelaboration, Caucus, EFA, K/RESA, TheBUS — defined from the work's own usage first.
 - [FAQ](https://item8.org/faq.html): the plain questions answered plainly, including why 29 numbers are missing and whether this was a class (it was not).
+- [Bibliography](https://item8.org/bibliography.html): every source the edition stands on, gathered in one place — the work's witnesses, period documents, the people's own accounts, scholarship and press, institutional records, testimony and the archive — each entry tied to the pages that cite it.
 - [Colophon](https://item8.org/colophon.html): the witnesses, the line-by-line collation, and the edition's cleaning decisions.
 
 ## Context
