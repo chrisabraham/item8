@@ -20,6 +20,10 @@
 - [FAQ](https://item8.org/faq.html): the plain questions answered plainly, including why 29 numbers are missing and whether this was a class (it was not).
 - [Colophon](https://item8.org/colophon.html): the witnesses, the line-by-line collation, and the edition's cleaning decisions.
 
+## Context
+
+- [Context](https://item8.org/context.html): the world the work was written in — online conferencing, The Meta Network, Caucus, MDN, ARTS WIRE, the WELL, the hosts who kept the rooms, and the road from telnet to the web. Each entry prints the sources it consulted; the MDN entry prints the editor's name for TMN's company beside the documented Metasystems Design Group, with the question left open.
+
 ## Notes
 
 - The full text of the work also stands in one file: [llms-full.txt](https://item8.org/llms-full.txt).
