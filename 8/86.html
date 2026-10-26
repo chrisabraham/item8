@@ -107,7 +107,32 @@ gtag('config', 'G-LJKL45HWHK');
 </footer>
 <script>
   var root=document.documentElement;
+  /* the telnet face is an ASCII face (the editor's ruling, Oct 26, 2026):
+     when the telnet theme is active, every em dash in the visible text
+     renders as -- ; the web face keeps its typography untouched. The
+     transform walks text nodes only -- never markup, attributes, scripts,
+     or styles -- and keeps each node's original value, so switching back
+     to web restores the page exactly as served. Entities (&mdash; etc.)
+     reach the text nodes already decoded, so the one character covers
+     them all. Presentation layer only: no source, no work text, is ever
+     edited -- the same doctrine as scibe.org's ASCII stage, scoped to
+     the one face that was born on a terminal. */
+  var dashSaved=new WeakMap();
+  function dashify(on){
+    if(!document.body || !document.createTreeWalker) return;
+    var walker=document.createTreeWalker(document.body, NodeFilter.SHOW_TEXT,
+      function(node){ var p=node.parentNode;
+        if(!p || p.nodeName==='SCRIPT' || p.nodeName==='STYLE')
+          return NodeFilter.FILTER_REJECT;
+        return NodeFilter.FILTER_ACCEPT; });
+    var nodes=[]; while(walker.nextNode()) nodes.push(walker.currentNode);
+    for(var i=0;i<nodes.length;i++){ var n=nodes[i];
+      if(on){ if(!dashSaved.has(n)) dashSaved.set(n,n.nodeValue);
+        n.nodeValue=n.nodeValue.replace(/\u2014/g,'--'); }
+      else if(dashSaved.has(n)){ n.nodeValue=dashSaved.get(n); } }
+  }
   function setTheme(t){ root.setAttribute('data-theme',t);
+    dashify(t==='telnet');
     document.querySelectorAll('.viewswitch button').forEach(function(b){
       b.classList.toggle('on', b.getAttribute('data-set')===t); });
     try{ localStorage.setItem('item8-theme',t); }catch(e){} }
