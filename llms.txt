@@ -7,6 +7,7 @@
 - [The river](https://item8.org/river.html): all 212 surviving responses in the order they ran, under their exact headers, with the 29 gaps printed in place. The river page also carries the whole work read aloud as one stitched listen, just under four hours.
 - [8:0, the first response](https://item8.org/8/0.html): every response, and every gap, has its own page in the /8/ sequence; forward and back links walk the whole chain, 8:0 to 8:240.
 - [What is it?](https://item8.org/what.html): the editor's own description of the work, why it was begun, and his thanks — in his words where they survive.
+- [Ancestor edition — My Name is Scibe](https://scibe.org/): the 1994 collaborative hyperfiction at scibe.org, written on ARTS WIRE and The WELL — the work this item was opened, in 1997, to recreate; Item 8 is its descendant, a river instead of a web.
 
 ## Listening
 
@@ -18,8 +19,8 @@
 - [Index of the work](https://item8.org/work-index.html): every person, place, organization, work and motif the text names — 195 entries, 764 citations, machine-checked against the transcript.
 - [Glossary](https://item8.org/glossary.html): the vocabulary of the room — coelaboration, Caucus, EFA, K/RESA, TheBUS — defined from the work's own usage first.
 - [FAQ](https://item8.org/faq.html): the plain questions answered plainly, including why 29 numbers are missing and whether this was a class (it was not).
-- [Bibliography](https://item8.org/bibliography.html): every source the edition stands on, gathered in one place — the work's witnesses, period documents, the people's own accounts, scholarship and press, institutional records, testimony and the archive — each entry tied to the pages that cite it.
-- [Acknowledgements](https://item8.org/acknowledgements.html): the edition's thanks, by name and at length — to the nineteen writers, to the founder and the house, to the makers of the machinery, to the classroom next door, to the keepers of the witnesses, and to the readers.
+- [Bibliography](https://item8.org/bibliography.html): the chain of custody, in paper — two witnesses first, then the Caucus and TMN paper, the people in their own words, scholarship and the attested press, the house's records, and testimony last — each entry tied to the pages that cite it.
+- [Acknowledgements](https://item8.org/acknowledgements.html): the edition's thanks, opened from the work's own 2000 line — to Scott Burns, to Caucus Systems, and to The Meta Network — and carried on to the nineteen writers, the founder and the house, the machinery's makers, the classroom next door, the witnesses' keepers, the chronicler, and the readers.
 - [Colophon](https://item8.org/colophon.html): the witnesses, the line-by-line collation, and the edition's cleaning decisions.
 
 ## Context
