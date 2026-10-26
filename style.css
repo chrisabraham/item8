@@ -1,6 +1,6 @@
 /* item8.org — two faces, one snapshot.
    web: coelaboration.com, 2000 (white, orange, purple).
-   cmd: the amber terminal the work was born on.
+   telnet: the amber terminal the work was born on.
    No serifs anywhere. No external assets. */
   :root, :root[data-theme="web"]{
     --bg:#fff; --ink:#111;
@@ -11,7 +11,7 @@
     --wfont:"Arial Rounded MT Bold",Arial,Helvetica,sans-serif;
     --promptshow:none; --ruleshow:block;
   }
-  :root[data-theme="cmd"]{
+  :root[data-theme="telnet"]{
     --bg:#16110a; --ink:#ffb648;
     --wordmark:#ffb648; --tag:#d99b35; --stamp:#a8843e;
     --link:#ffb648; --hot:#ffd88a; --accent:#d99b35; --alt:#a8843e; --blue:#ffb648;
